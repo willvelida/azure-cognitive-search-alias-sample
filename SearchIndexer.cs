@@ -5,7 +5,7 @@ using Bupa.CommonPlatforms.FindAndBook.Indexer.Services.Interfaces;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace Bupa.CommonPlatforms.FindAndBook.Indexer.Services
+namespace Indexer.Services
 {
     public class SearchIndexerService : ISearchIndexerService
     {
